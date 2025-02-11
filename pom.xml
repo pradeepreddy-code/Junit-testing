@@ -23,6 +23,7 @@
     </dependency>
     <!-- Add other necessary dependencies here if required -->
   </dependencies>
+  </build>
   </project>
 
 <plugin>
