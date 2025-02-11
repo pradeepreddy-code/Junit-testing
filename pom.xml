@@ -21,6 +21,7 @@
       <version>5.7.2</version>
       <scope>test</scope>
     </dependency>
+  </dependencies>
     <!-- Add other necessary dependencies here if required -->
 <plugin>
   <groupId>org.sonarsource.scanner.maven</groupId>
