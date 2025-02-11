@@ -23,7 +23,7 @@
     </dependency>
     <!-- Add other necessary dependencies here if required -->
   </dependencies>
-</project>
+  </project>
 
 <plugin>
   <groupId>org.sonarsource.scanner.maven</groupId>
