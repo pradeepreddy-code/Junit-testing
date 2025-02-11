@@ -22,10 +22,6 @@
       <scope>test</scope>
     </dependency>
     <!-- Add other necessary dependencies here if required -->
-  </dependencies>
-  </build>
-  </project>
-
 <plugin>
   <groupId>org.sonarsource.scanner.maven</groupId>
   <artifactId>sonar-maven-plugin</artifactId>
