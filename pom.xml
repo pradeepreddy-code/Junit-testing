@@ -14,7 +14,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- SonarQube properties -->
-        <sonar.projectKey>squ_ac564850af0337c1a9c5b0cec44aab9cfb8e12fb</sonar.projectKey>
+        <sonar.projectKey>testcase.test</sonar.projectKey>
         <sonar.host.url>http://localhost:9000</sonar.host.url> <!-- Replace with your SonarQube instance URL -->
     </properties>
     
